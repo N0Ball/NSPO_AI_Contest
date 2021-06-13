@@ -1,0 +1,7 @@
+# vertial environments
+
+.venv/
+
+# Large files
+
+data/NC*
